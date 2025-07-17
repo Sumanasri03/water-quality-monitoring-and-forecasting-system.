@@ -4,7 +4,7 @@ A Python-based project to analyze water quality data and assign risk levels base
 
 ---
 
-## 🚀 Features
+##  Features
 - Load and clean sensor data
 - Visualize indicators
 - Apply simple rule-based risk scoring
@@ -17,7 +17,7 @@ A Python-based project to analyze water quality data and assign risk levels base
 
 ---
 
-## ✅ How to Run Locally
+##  How to Run Locally
 
 ```bash
 # Step 1: Install dependencies
