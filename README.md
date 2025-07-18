@@ -12,7 +12,7 @@ A Python-based project to analyze water quality data and assign risk levels base
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ##  How to Run Locally
 
